@@ -1,5 +1,6 @@
 p{
     color: red ;
+    text-align: justify;
 }
 
 body{
@@ -8,4 +9,5 @@ body{
 
 h2{
     color: rgb(39, 34, 120);
+    text-align: center;
 }
