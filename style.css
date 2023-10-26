@@ -1,5 +1,5 @@
 .rosa{
-    color: deeppink;
+    color: #400D01;
     text-align: justify;
 }
 
@@ -12,3 +12,6 @@ body{
     text-align: center;
 }
 
+.subtitulo{
+    color: #D92B04;
+}
