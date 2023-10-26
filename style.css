@@ -1,13 +1,13 @@
 p{
-    color: red ;
+    color: rgb(48, 19, 165) ;
     text-align: justify;
 }
 
 body{
-    font-family: Verdana;
+    font-family: Calibri;
 }
 
 h2{
-    color: rgb(39, 34, 120);
+    color: rgb(95, 2, 62);
     text-align: center;
 }
