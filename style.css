@@ -1,4 +1,4 @@
-p{
+.rosa{
     color: rgb(139, 21, 45) ;
     text-align: justify;
 }
@@ -12,7 +12,3 @@ body{
     text-align: center;
 }
 
-/*CLASSE SEMPRE COMEÇA COM PONTO FINAL NO CSS*/
-.azul{
-    color: rgb(7, 68, 121);
-}
