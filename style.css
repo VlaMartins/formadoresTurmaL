@@ -1,5 +1,5 @@
 p{
-    color: rgb(48, 19, 165) ;
+    color: rgb(139, 21, 45) ;
     text-align: justify;
 }
 
@@ -14,13 +14,5 @@ body{
 
 /*CLASSE SEMPRE COMEÇA COM PONTO FINAL NO CSS*/
 .azul{
-    color: rgb(27, 99, 163);
-}
-
-.lilas{
-    color: rgb(128, 80, 173);
-}
-
-.vermelho{
-    color: rgba(190, 17, 17, 0.737);
+    color: rgb(7, 68, 121);
 }
