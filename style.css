@@ -11,3 +11,15 @@ body{
     color: rgb(95, 2, 62);
     text-align: center;
 }
+
+.azul{
+    color: rgb(27, 99, 163);
+}
+
+.lilas{
+    color: rgb(128, 80, 173);
+}
+
+.vermelho{
+    color: rgba(190, 17, 17, 0.737);
+}
