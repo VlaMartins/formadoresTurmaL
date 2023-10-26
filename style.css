@@ -7,11 +7,12 @@ body{
     font-family: Calibri;
 }
 
-#tituloprincipal{
+#tituloprincipal{ /* o id é unico*/
     color: rgb(95, 2, 62);
     text-align: center;
 }
 
+/*CLASSE SEMPRE COMEÇA COM PONTO FINAL NO CSS*/
 .azul{
     color: rgb(27, 99, 163);
 }
