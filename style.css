@@ -7,6 +7,8 @@
 body{
     font-family: Calibri;
     background-color: #c5bc78;
+    margin: 0px;
+    padding: 5px;
 }
 
 #tituloprincipal{ /* o id é unico*/
