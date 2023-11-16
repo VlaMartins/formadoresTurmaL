@@ -10,8 +10,9 @@ body{
 }
 
 #tituloprincipal{ /* o id é unico*/
-    color: rgb(95, 2, 62);
+    color: rgb(247, 244, 246);
     text-align: center;
+    background-color: green;
 }
 
 .subtitulo{
