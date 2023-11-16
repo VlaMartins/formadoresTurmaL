@@ -20,5 +20,11 @@ body{
 }
 
 #imgmenor{
-    height: 100px;
+    height: 400px;
+}
+
+.imgcentro{
+    width: 400px;
+    display: block;
+    margin: auto;
 }
