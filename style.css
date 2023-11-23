@@ -28,15 +28,11 @@ body{
 }
 .rosa{
     color: green;
-    text-align: justify;
+    text-align: justify; /*left, right, center, justify*/
     font-size: 20px;
     padding-left: 70px;
     padding-right: 50px;
 }
-
-
-
-
 
 .subtitulo{
     color: #D92B04;
