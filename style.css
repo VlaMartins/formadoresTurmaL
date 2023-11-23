@@ -1,16 +1,13 @@
-.rosa{
-    color: green;
-    text-align: justify;
-    font-size: 20px;
-    padding-left: 70px;
-    padding-right: 50px;
-}
-
 body{
     font-family: Calibri;
-    background-color: #c5bc78;
+    background-color: #203457;
     margin: 0px;
+}
 
+.cabecalho{
+    background-color:#99a940;
+    font-size: 8px;
+    color: aqua;
 }
 
 #tituloprincipal{ /* o id é unico*/
@@ -22,9 +19,25 @@ body{
     padding: 20px;
 }
 
-.imgcabecalho{
+#imgcabecalho{
     width: 70px;
 }
+
+.natureza{
+    background-color: #e6e1bc;
+}
+.rosa{
+    color: green;
+    text-align: justify;
+    font-size: 20px;
+    padding-left: 70px;
+    padding-right: 50px;
+}
+
+
+
+
+
 .subtitulo{
     color: #D92B04;
 }
@@ -47,12 +60,3 @@ ul{
     list-style: square;
 }
 
-.cabecalho{
-    background-color:#99a940;
-    font-size: 8px;
-    color: aqua;
-}
-
-.natureza{
-    background-color: #e6e1bc;
-}
