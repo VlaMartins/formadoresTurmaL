@@ -12,7 +12,7 @@ header{
     margin: 0px;
     display: flex;/* conteudo flexivel*/
     justify-content: space-around; /* espaço ao redor do conteudo de forma igual*/
-    border-bottom: 2px double rgb(253, 253, 252);
+    border: 2px solid rgb(253, 253, 252);
 }
 
 #tituloprincipal{ /* o id é unico*/
