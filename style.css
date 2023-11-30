@@ -5,14 +5,13 @@ body{
     font-size: 18px;
 }
 
-.cabecalho{
+header{
     background-image:linear-gradient(#09152a,#4e6b9c );
     font-size: 22px;
     padding: 20px;
     margin: 0px;
-    display: flex;
-    justify-content: space-around;
-
+    display: flex;/* conteudo flexivel*/
+    justify-content: space-around; /* espaço ao redor do conteudo de forma igual*/
 }
 
 #tituloprincipal{ /* o id é unico*/
