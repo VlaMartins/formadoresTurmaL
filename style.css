@@ -58,5 +58,7 @@ header{
 
 .lista-item{
     display: inline-block;
+    color: white;
+    padding: 30px;
 }
 
