@@ -8,10 +8,9 @@ body{
 .cabecalho{
     background-image:linear-gradient(#09152a,#4e6b9c );
     font-size: 22px;
-    display: flex;
+    /*display: flex;
     justify-content: space-around;
-    margin: 0px;
-
+    margin: 0px;*/
 }
 
 #tituloprincipal{ /* o id é unico*/
@@ -36,12 +35,6 @@ body{
     padding: 25px;
 }
 
-
-.texto-img{
-
-}
-
-
 .subtitulo{
     color: whitesmoke;
 }
@@ -60,16 +53,7 @@ body{
     margin: auto;
 }
 
-.natureza-listas{
-    color: black;
-}
-
 .lista-item{
-
-}
-
-ul{
-    list-style: square;
-    color: black;
+    display: inline-block;
 }
 
