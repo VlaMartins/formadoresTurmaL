@@ -1,12 +1,13 @@
 body{
     font-family: Calibri;
     background-color: #203457;
-    margin: 0px;
+    margin: 20px;
+    font-size: 18px;
 }
 
 .cabecalho{
     background-color:#203457;
-    font-size: 16pxpx;
+    font-size: 16px;
 }
 
 #tituloprincipal{ /* o id é unico*/
@@ -19,9 +20,10 @@ body{
 }
 
 #imgcabecalho{
-    width: 100px;
+    width: 200px;
     padding-left:30px ;
 }
+
 
 .natureza{
     background-image: linear-gradient( #203457, #606B85);
