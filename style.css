@@ -10,9 +10,8 @@ body{
     font-size: 22px;
     padding: 20px;
     margin: 0px;
+    display: flex;
 
-    /* display: flex;
-    justify-content: space-around;*/
 }
 
 #tituloprincipal{ /* o id é unico*/
